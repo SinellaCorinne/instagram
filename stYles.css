@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 20px;
+}
+#time { 
+    font-size: 48px; 
+     margin: 20px;
+
+}
+
+button{
+    height: 50;
+    width: 35;
+    padding: 20;
+    border: solid;
+    border-color: brown;
+    margin: 10;
+    color: burlywood;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    transition: all;
+    cursor: pointer;
+}
